@@ -1,2 +1,2 @@
 # Repository
-Repository untuk Indonesian Backtrack Team sub regional Tobasa
+Repository untuk anggota Indonesian Backtrack Team sub regional Tobasa
